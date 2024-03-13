@@ -1,6 +1,6 @@
 Research Question:
 
-    Determining the impact of age, religion, happiness, and education on political views
+    Determining the impact of age, happiness, and education on political views
 
 Programming group: (Due Saturday at 11:59 PM)
     - Naad Kundu
